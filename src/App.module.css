@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.calculator{
+  border: 1px solid rgba(0, 0, 0, 0.464);
+  width: 200px;
+  background-color: rgb(100, 163, 174);
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+

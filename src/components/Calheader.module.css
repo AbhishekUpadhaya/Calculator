@@ -1,0 +1,14 @@
+
+.calhead{
+  width:200px;
+  height:2rem;
+  text-align: center;
+  padding: 4px;
+  font-size: large;
+  font-weight: 800;
+  border: 2px solid rgb(23, 21, 21);
+  background-color:#db4545;
+  color:white;
+  border-radius: 10px;
+  margin-bottom: 6px;
+}
